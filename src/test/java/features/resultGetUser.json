@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "userName": "adityap",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "kembang desa kampung",
+      "employeeId": "175"
+    },
+    {
+      "userName": "Admin",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "Muhammad test Azis",
+      "employeeId": "1"
+    },
+    {
+      "userName": "agil02",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "Agil Dias Syahrizal",
+      "employeeId": "98"
+    },
+    {
+      "userName": "azisss",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "Muhammad Azis",
+      "employeeId": "113"
+    },
+    {
+      "userName": "cobain",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "cobain coba aja",
+      "employeeId": "108"
+    },
+    {
+      "userName": "fannyranindy",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "Fanny Restu Anindi",
+      "employeeId": "99"
+    },
+    {
+      "userName": "nurindah",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "nur indah vaili",
+      "employeeId": "377"
+    },
+    {
+      "userName": "rizqi",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "Rizqi Ahmad Fauzan",
+      "employeeId": "97"
+    },
+    {
+      "userName": "yubihartland",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "Yubi Hartland Muharam",
+      "employeeId": "102"
+    },
+    {
+      "userName": "zein25",
+      "userRole": "Admin",
+      "status": "Enabled",
+      "employeeName": "M Zein Azhari",
+      "employeeId": "135"
+    }
+  ],
+  "rels": [
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "firstName": "Muhammad",
+      "middleName": "test",
+      "lastName": "Azis",
+      "code": "0201",
+      "employeeId": "1",
+      "fullName": "Muhammad test Azis",
+      "status": null,
+      "dob": null,
+      "driversLicenseNumber": "",
+      "licenseExpiryDate": null,
+      "maritalStatus": null,
+      "gender": null,
+      "otherId": "",
+      "nationality": null,
+      "unit": null,
+      "jobTitle": null,
+      "supervisor": null
+    },
+    {
+      "firstName": "muhammad",
+      "middleName": "test",
+      "lastName": "azis",
+      "code": "100",
+      "employeeId": "114",
+      "fullName": "muhammad test azis",
+      "status": null,
+      "dob": null,
+      "driversLicenseNumber": "",
+      "licenseExpiryDate": null,
+      "maritalStatus": null,
+      "gender": null,
+      "otherId": "",
+      "nationality": null,
+      "unit": null,
+      "jobTitle": null,
+      "supervisor": null
+    }
+  ],
+  "rels": []
+}

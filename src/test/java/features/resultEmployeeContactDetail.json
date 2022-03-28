@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "113",
+    "code": "#ignore",
+    "fullName": "Muhammad Azis",
+    "addressStreet1": "Julang",
+    "addressStreet2": "Sukatani",
+    "city": "Karawang",
+    "state": "Cikande",
+    "zip": "1111",
+    "county": "INDONESIA",
+    "homeTelephone": "1234567",
+    "workTelephone": "0245890",
+    "mobile": "08123456789",
+    "workEmail": "azis@cilsy.id",
+    "otherEmail": "muhammadajis447@gmail.com"
+  },
+  "rels": []
+}
